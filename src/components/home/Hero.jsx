@@ -4,7 +4,7 @@ import heroImage from "../../assets/images/herowomen.png";
 const Hero = () => {
   return (
     <section id="home" className="relative bg-white">
-      <div className="mx-auto max-w-7xl px-4">
+      <div className="mx-auto max-w-7xl pt-4 px-4">
         <div className="grid items-center lg:gap-[200px] pt-16 md:grid-cols-2">
           {/* Left Content */}
           <div className="max-w-xl">
